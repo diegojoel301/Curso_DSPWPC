@@ -9,3 +9,5 @@ https://www.netacad.com/portal/learning (Curso de manejo linux)
 https://svn.nmap.org/!svn/bc/3320/nmap/docs/nmap_manpage.html (nmap)
 https://www.ibm.com/docs/en/cloud-paks/cp-management/2.3.x?topic=monitoring-removing-data-collector-docker-container-kubernetes-pod (como borrar un contenedor)
 https://docs.python.org/3/library/socket.html (documentacion de socket)
+http://www.utez.edu.mx/index.php/curriculascisco (cisco)
+Para los que no tengan pwn: python3 -m pip install --upgrade pwntools
