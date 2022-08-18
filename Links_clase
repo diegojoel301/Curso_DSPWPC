@@ -14,3 +14,4 @@ Para los que no tengan pwn: python3 -m pip install --upgrade pwntools
 https://pypi.org/project/python-nmap/ (Documentacion API Nmap Python)
 http://jsonprettify.com/ (Indentador de json)
 https://deepsec.com.mx/blog/f/guia-definitiva-de-nmap-en-espa%C3%B1ol---deepsec-academy (Guia de nmap)
+https://nmap.org/nsedoc/scripts/ (Lista de scripts NSE de nmap para vulnerabilidades y enumeracion)
