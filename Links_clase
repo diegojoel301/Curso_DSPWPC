@@ -11,3 +11,4 @@ https://www.ibm.com/docs/en/cloud-paks/cp-management/2.3.x?topic=monitoring-remo
 https://docs.python.org/3/library/socket.html (documentacion de socket)
 http://www.utez.edu.mx/index.php/curriculascisco (cisco)
 Para los que no tengan pwn: python3 -m pip install --upgrade pwntools
+https://pypi.org/project/python3-nmap/ (Documentacion API Nmap Python)
